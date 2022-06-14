@@ -1,0 +1,23 @@
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\bin\Debug\NoRecoil.exe.config
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\bin\Debug\NoRecoil.exe
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\bin\Debug\NoRecoil.pdb
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\Debug\NoRecoil.csprojResolveAssemblyReference.cache
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\Debug\NoRecoil.gui.resources
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\Debug\NoRecoil.Properties.Resources.resources
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\Debug\NoRecoil.csproj.GenerateResource.Cache
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\Debug\NoRecoil.csproj.CoreCompileInputs.cache
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\Debug\NoRecoil.exe
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\Debug\NoRecoil.pdb
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\bin\Debug\NoRecoil.exe.config
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\bin\Debug\NoRecoil.exe
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\bin\Debug\NoRecoil.pdb
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\bin\Debug\Corale.Colore.dll
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\bin\Debug\Corale.Colore.xml
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\obj\Debug\NoRecoil.csproj.AssemblyReference.cache
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\obj\Debug\NoRecoil.gui.resources
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\obj\Debug\NoRecoil.Properties.Resources.resources
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\obj\Debug\NoRecoil.csproj.GenerateResource.cache
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\obj\Debug\NoRecoil.csproj.CoreCompileInputs.cache
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\obj\Debug\NoRecoil.csproj.CopyComplete
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\obj\Debug\NoRecoil.exe
+C:\Users\tuanz\OneDrive\Ambiente de Trabalho\NoRecoil-master\NoRecoil\obj\Debug\NoRecoil.pdb

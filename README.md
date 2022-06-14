@@ -1,1 +1,2 @@
-# NoRecoil-Mouse-Move
+# NoRecoil
+C# No Recoil Script

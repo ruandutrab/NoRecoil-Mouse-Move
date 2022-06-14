@@ -1,0 +1,12 @@
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\bin\x64\Debug\NoRecoil.exe.config
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\bin\x64\Debug\NoRecoil.exe
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\bin\x64\Debug\NoRecoil.pdb
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\bin\x64\Debug\Corale.Colore.dll
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\bin\x64\Debug\Corale.Colore.xml
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\x64\Debug\NoRecoil.csprojResolveAssemblyReference.cache
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\x64\Debug\NoRecoil.gui.resources
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\x64\Debug\NoRecoil.Properties.Resources.resources
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\x64\Debug\NoRecoil.csproj.GenerateResource.Cache
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\x64\Debug\NoRecoil.csproj.CoreCompileInputs.cache
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\x64\Debug\NoRecoil.exe
+C:\Users\Finn\source\repos\NoRecoil\NoRecoil\obj\x64\Debug\NoRecoil.pdb
